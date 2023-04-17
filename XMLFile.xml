@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<empl>
+  <employe name="empnam1" adress="adress1" salary="1000" />
+  <employe name="empnam2" adress="adress2" salary="2000" />
+  <employe name="empnam3" adress="adress3" salary="3000" />
+  <employe name="empnam4" adress="adress4" salary="4000" />
+  <employe name="empnam5" adress="adress5" salary="5000" />
+  <employe name="empnam6" adress="adress6" salary="6000" />
+  <employe name="empnam7" adress="adress7" salary="7000" />
+</empl>
